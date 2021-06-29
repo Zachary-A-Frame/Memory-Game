@@ -1,0 +1,25 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+button {
+  border-radius: 8px;
+  font-size: 40px;
+  padding: 32px 25px;
+  background-color: #00ff80;
+  display: flex;
+  height: 50px;
+  align-items: center;
+  border: 3px solid green;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#scoreboard {
+  text-align: center;
+  font-size: 40px;
+}
